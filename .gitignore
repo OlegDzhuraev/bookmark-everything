@@ -34,3 +34,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+BookmarkEverything/Logs/
+BookmarkEverything/ProjectSettings/
+BookmarkEverything/Packages/

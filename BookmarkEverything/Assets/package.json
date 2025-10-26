@@ -1,0 +1,15 @@
+{
+    "name": "com.insaneone.bookmark-everything-fork",
+    "author": "dogukanerkut, Oleg Dzhuraev (InsaneOne)",
+    "displayName": "Bookmark everything",
+    "description": "Forked from https://github.com/dogukanerkut/bookmark-everything. MIT License.",
+    "unity": "2022.1",
+    "version": "0.1.0",
+    "keywords": [
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OlegDzhuraev/bookmark-everything.git"
+    }
+}
