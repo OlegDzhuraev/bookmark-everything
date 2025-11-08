@@ -5,11 +5,7 @@
     "description": "Forked from https://github.com/dogukanerkut/bookmark-everything. MIT License.",
     "unity": "2022.1",
     "version": "0.1.0",
-    "keywords": [
-    ],
+    "keywords": [ "bookmark", "editor"],
     "dependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/OlegDzhuraev/bookmark-everything.git"
-    }
+    "documentationURL": "https://github.com/OlegDzhuraev/bookmark-everything.git"
 }
