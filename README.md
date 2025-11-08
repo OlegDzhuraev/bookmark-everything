@@ -2,8 +2,12 @@
 ## About
 This tool enables you to add bookmarks to your project files so you can reach them easily. You can bookmark anything that exists and lives on your project folder. The shortcut is *CTRL+H* or you can open it in Window/Bookmark Everything. It also reflects to path/name changes, asset removals correctly.
 
-## Download
-[Asset Store Page](https://assetstore.unity.com/packages/tools/utilities/bookmark-everything-134467), or clone/download this repository and add the folder named *BookmarkEverything* to your *Assets* folder.
+## How to install
+Using Unity Package Manager, choose git install and paste this:
+
+```
+https://github.com/OlegDzhuraev/bookmark-everything.git?path=BookmarkEverything/Assets/BookmarkEverything
+```
 
 ## How to Use
 Here are some quick gifs and explanation on how to use it:
